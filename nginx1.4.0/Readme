@@ -1,0 +1,5 @@
+
+Modifing /objs/makefile which be produced by ./configure xxx and after running make it doesnot produce nginx.
+
+$ make
+$ make clean
